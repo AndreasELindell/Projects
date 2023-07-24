@@ -1,0 +1,11 @@
+C:\Users\Andreas\source\repos\ChattProg1\ChattProg1\bin\Debug\ChattProg1.exe.config
+C:\Users\Andreas\source\repos\ChattProg1\ChattProg1\bin\Debug\ChattProg1.exe
+C:\Users\Andreas\source\repos\ChattProg1\ChattProg1\bin\Debug\ChattProg1.pdb
+C:\Users\Andreas\source\repos\ChattProg1\ChattProg1\obj\Debug\ChattProg1.csproj.AssemblyReference.cache
+C:\Users\Andreas\source\repos\ChattProg1\ChattProg1\obj\Debug\ChattProg1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andreas\source\repos\ChattProg1\ChattProg1\obj\Debug\ChattProg1.Form1.resources
+C:\Users\Andreas\source\repos\ChattProg1\ChattProg1\obj\Debug\ChattProg1.Properties.Resources.resources
+C:\Users\Andreas\source\repos\ChattProg1\ChattProg1\obj\Debug\ChattProg1.csproj.GenerateResource.cache
+C:\Users\Andreas\source\repos\ChattProg1\ChattProg1\obj\Debug\ChattProg1.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\source\repos\ChattProg1\ChattProg1\obj\Debug\ChattProg1.exe
+C:\Users\Andreas\source\repos\ChattProg1\ChattProg1\obj\Debug\ChattProg1.pdb
